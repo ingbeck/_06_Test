@@ -23,7 +23,7 @@ class MainTest {
 
     //Write a test for a method that checks if a given number is even.
     @Test
-    void isEven_whenNumberIs4_thenReturnTrue(){
+    void isEven_whenNumberIsEven_thenReturnTrue(){
         //GIVEN
         int number = 4;
 
